@@ -178,12 +178,64 @@ li{
 
 .btn-hamburger{
 		float:left;
-	}
+}
 
+.modal-register{
+	width: 50%;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color:#08AC9D;
+	padding:3%;
+	border-radius: 5%;
+}
 
+.icon-user{
+	margin-left: 45%;
+	font-size: 50px;
+}
+
+.btn-log{
+	margin-left: 30%;
+	margin-bottom: 10%;
+	color: orange;
+
+}
+
+.click{
+	color: orange;
+}
+
+.btn-register-modal{
+	background-color: black;
+	color: white;
+	border-radius: 5%;
+	margin-left: 35%;
+	margin-bottom: 5%;
+}
+
+.create{
+	text-align: center;
+}
+
+.modal-body-register{
+	padding-bottom: 10%;
+}
+
+.body-modal-driver, .header-modal-driver{
+	background-color: #A9A9A9;
+}
+
+.email{
+	color: #2EFEF7;
+}
+
+.last-text{
+	margin-top: 4%; 
+}
 
 @media (min-width: 200px) and (max-width:768px){
-	
+
 	.description{
 		border: 2px solid white;
 		margin-left: 1%;
