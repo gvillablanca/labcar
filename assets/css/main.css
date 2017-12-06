@@ -75,7 +75,6 @@
 
 .image{
 	margin-bottom:10%;
-	width: 100%;
 }
 
 .drive{
@@ -250,5 +249,10 @@ li{
 
 	.logo-first{
 		margin-left: 50%;
+	}
+
+	.image{
+		margin-bottom:10%;
+		width: 100%;
 	}
 }
